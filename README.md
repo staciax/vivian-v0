@@ -2,7 +2,7 @@
 
 > _"Make data safe. Just let it validate."_
 
-A Swift-based CLI for managing and backing up your dotfiles. It helps you collect the configs you care about and sync them across your machines, structured exactly the way you want.
+A Swift-based library for data validation and parsing. It helps you validate inputs, sanitize fields, and decode them into type-safe models, structured exactly the way you want.
 
 ---
 
